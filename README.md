@@ -1,6 +1,6 @@
-==============================
+
 Local LLM Chatbot – Project: llmsetup
-==============================
+
 
 Run a private, local language model using Python and a quantized .gguf model.
 No internet access or GUI required after setup.
