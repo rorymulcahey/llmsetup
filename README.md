@@ -70,7 +70,7 @@ Download the file:
 
     mistral-7b-instruct-v0.2.Q4_K_M.gguf
 
-Then move it to this folder.
+Then move it to this folder (path\to\llmsetup).
 
 ------------------------------
 Step 5. Create Python Chat Script
